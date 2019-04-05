@@ -1,2 +1,2 @@
 # Project-Pie
-Where AI meets Computational Fluid Dynamics
+Where Artificial Intelligence meets Computational Fluid Dynamics
